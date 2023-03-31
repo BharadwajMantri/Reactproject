@@ -1,0 +1,40 @@
+.buttons {
+    font-size: 30px;
+    display: flex;  
+    justify-content: space-around;
+    align-items: center;
+}
+
+button {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.counter {
+    text-align: center;
+    color: green;
+    font-size: 50px;
+}
+
+.buttons button{
+    background: #000;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.buttons button:hover{
+    background: white;
+    color: #000;
+    
+}
+
+.btn-primary {
+    width: 200px;
+    font-size: 30px;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, +30%);
+
+
+}

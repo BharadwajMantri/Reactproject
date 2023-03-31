@@ -1,0 +1,21 @@
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    background-color: greenyellow;
+    height: 20vh;
+    font-family: cursive;
+    align-items: center;
+
+}
+*{
+    margin: 0;
+}
+h1{
+    font-size: larger;
+    font-family: cursive;
+    color: #111432;
+    background-color: orange;
+    height: 10vh;
+    padding-left: 400px;
+}
